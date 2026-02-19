@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/282681/m/rust-screenshot.png?v=1605103585" alt="Rust for Mac screenshot"/>
+  <img src="https://gaming-cdn.com/images/products/1230/orig/rust-pc-mac-game-steam-cover.jpg?v=1707920309" alt="Rust for Mac screenshot"/>
 </p>
 
 ---
